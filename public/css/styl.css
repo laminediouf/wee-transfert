@@ -1,0 +1,167 @@
+@import url("//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css");
+body{
+  margin-left: 15px!important;
+  margin-right: 15px!important;
+}
+
+/* header */
+.IMG{
+  position: relative;
+  border: 2px solid #1d8093;
+  transform: rotate(25deg);
+  border-radius: 4rem;
+  width: 11%;
+  top: 5.7px;
+  
+ 
+  
+}
+    
+/*
+.glyphicon 
+{ 
+  margin-right:10px; 
+}
+.panel-body 
+{ 
+  padding:0px; 
+}
+.panel-body table tr td 
+{
+   padding-left: 15px 
+}
+.panel-body .table
+{
+  margin-bottom: 0px; 
+}
+
+.conteneure a {
+  
+    position: absolute;
+    transform: translate(-50%,-50%);
+    width: 190px;
+    text-align: center!important;
+    height: 55px;
+    padding: 0 1rem;
+    line-height: 60px;
+    text-align: center;
+    border: 2px solid #1d8093;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    color: #fcc500;
+    overflow: hidden;
+    right: 50px!important;
+   
+
+}
+
+a span  {
+  display:inline-block;
+  transition:0.5s;
+  font-size:40px;
+}
+a span:nth-child(odd):before {
+  content:attr(data-text);
+  position:absolute;
+  transform:translateY(100%);
+}
+a span:nth-child(odd){
+  transform:translateY(-100%);
+}
+a:hover span:nth-child(odd){
+  transform:translateY(0);
+  color:#1d8093;
+}
+a span:nth-child(even):before {
+  content:attr(data-text);
+  position:absolute;
+  transform:translateY(-100%);
+}
+
+a span:nth-child(even){
+  transform:translateY(100%);
+}
+a:hover span:nth-child(even){
+  transform:translateY(0);
+  color:#1d8093;
+ 
+}*/
+
+.content-header{
+  position: relative;
+    font-family: 'Oleo Script', cursive;
+    color:#fcc500;
+    font-size: 45px;
+    text-align: center!important; 
+  }
+  
+  .section{
+    position: relative;
+    float: right;
+  }
+
+ 
+
+/* formulaire */
+.btnContact{
+  background-color: #1d8093!important;
+}
+.btnContact:hover{
+  background-color: #fcc500!important;
+}
+.contact-form{
+  position: relative;
+    background: #ffffffb8;
+    top: 30px;
+    width: 70%!important;
+    box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+    border: .5em solid #1d8093;
+    border-radius: 2rem;
+   
+}
+.contact-form .form-control{
+    border-radius:1rem;
+}
+.contact-image{
+  position: relative;
+   -moz-text-align-last: center;
+    top: 100px;
+    left: 100px;
+}
+
+.contact-form form{
+  position: relative;
+    padding: 14%;
+    bottom: 30px;
+}
+.contact-form form .row{
+    margin-bottom: -7%;
+}
+.contact-form h3{
+    position: relative;
+   bottom: 50px!important;
+    text-align: center;
+    color: #1d8093;
+}
+.contact-form .btnContact {
+    width: 50%;
+    border: none;
+    border-radius: 1rem;
+    padding: 1.5%;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+}
+.btnContacte{
+  width: 70%;
+  border: none;
+  border-radius: 2rem;
+  padding: 1.5%;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  text-align: center;
+ 
+}
+

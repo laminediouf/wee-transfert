@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="beb83cdf-ac4e-4314-bf0e-f96b05b588ee" name="Wee-Transfert" url="http://promo-21.codeur.online">
+        <fileTransfer host="promo-21.codeur.online" port="22" rootFolder="/public/Tranfert" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
